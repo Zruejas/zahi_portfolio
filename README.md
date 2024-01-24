@@ -4,7 +4,7 @@
 <head>
     <style>
         body {
-            background-color: #f5f5dc; /* Color de fondo beige */
+            background-color: #554e4f; /* Color de fondo  */
             text-align: center;
             font-family: 'Arial', sans-serif;
             margin: 0;
@@ -12,10 +12,10 @@
         }
 
         .header {
-            background-color: #6495ED; /* Color de fondo azul steelblue */
+            background-color: #eb9c64; /* Color de fondo */
             color: white;
             padding: 1em;
-            font-size: 2em;
+            font-size: 6em;
         }
 
         .content {
@@ -27,7 +27,7 @@
 
 <body>
     <div class="header">
-        <h1>Mi Página GitHub</h1>
+        <h1>Portfolio Sai 4ojos</h1>
     </div>
 
     <div class="content">
