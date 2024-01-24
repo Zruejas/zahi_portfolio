@@ -15,7 +15,7 @@
             background-color: #eb9c64; /* Color de fondo */
             color: white;
             padding: 1em;
-            font-size: 6em;
+            font-size: 2em;
         }
 
         .content {
@@ -27,7 +27,7 @@
 
 <body>
     <div class="header">
-        <h1>Portfolio Sai 4ojos</h1>
+        <h1>Portfolio </h1>
     </div>
 
     <div class="content">
