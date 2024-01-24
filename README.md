@@ -1,28 +1,38 @@
-# Portfolio de Data Analyst
+ <!DOCTYPE html>
+<html>
 
-¡Bienvenido a mi portfolio de Data Analyst! Soy [Zahira], un apasionado por el análisis de datos y la toma de decisiones basada en datos. Aquí encontrarás una muestra de algunos de mis proyectos y trabajos relacionados con el análisis de datos.
+<head>
+    <style>
+        body {
+            background-color: #f5f5dc; /* Color de fondo beige */
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
 
-## Proyectos Destacados
+        .header {
+            background-color: #6495ED; /* Color de fondo azul steelblue */
+            color: white;
+            padding: 1em;
+            font-size: 2em;
+        }
 
-### 1. Análisis de Ventas Mensuales
+        .content {
+            padding: 2em;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
 
+<body>
+    <div class="header">
+        <h1>Mi Página GitHub</h1>
+    </div>
 
-- [Enlace al Proyecto](enlace_al_repositorio)
-- ![Captura de pantalla o gráficos del proyecto](imagen_proyecto.png)
+    <div class="content">
+        <p>Bienvenido a mi página en GitHub. Aquí encontrarás información interesante sobre mí.</p>
+    </div>
+</body>
 
-### 2. Predicción de Churn de Clientes
-
-Otro proyecto importante, descripción y enlaces similares.
-
-- [Enlace al Proyecto](enlace_al_repositorio)
-- ![Captura de pantalla o gráficos del proyecto](imagen_proyecto.png)
-
-## Competencias Técnicas
-
-Destaca tus habilidades técnicas y las herramientas que utilizas. Puedes incluir lenguajes de programación, bibliotecas, bases de datos y otras tecnologías relevantes.
-
-- Python
-- SQL
-- Pandas, NumPy, Matplotlib, Seaborn
-- Tableau
-- Excel
+</html>
