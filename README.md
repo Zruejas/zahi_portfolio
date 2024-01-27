@@ -1,16 +1,28 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<title>Data Analytics Portfolio on Ronit Malik</title>
-<link>https://ronitmalik.github.io/Portfolio/</link>
-<description>Recent content in Data Analytics Portfolio on Ronit Malik</description>
-<generator>Hugo -- gohugo.io</generator>
-<language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
-<atom:link href="https://ronitmalik.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>Amazon Price Tracker</title>
-<link>https://ronitmalik.github.io/Portfolio/post/amazon_price_scrapper/</link>
-<pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-<guid>https://ronitmalik.github.io/Portfolio/post/amazon_price_scrapper/</guid>
-<description>This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. The way the model works is you add a link to the amazon product and the price you&rsquo;re willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert.</description>
-</item>
+# ZAHIRA RUEJAS - Data Analyst Portfolio
+## About
+----
+My CV in [pdf](      ).
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Contents
+- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+  - SQL
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+  - R
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Power BI
+  
+
+
+
+## Contacts
+- LinkedIn: [@zruejas ](https://www.linkedin.com/in/zruejas)
+- Email: ruejaszahira@gmail.com
